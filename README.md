@@ -13,3 +13,8 @@ And then run `pip` as follows:
 pip install -i localhost:8080 <package_name>
 ```
 
+## Disclaimer
+
+This is proof-of-concept code related to [our post on wheel-jacking](https://www.vdoo.com/blog/python-wheel-jacking-supply-chain-attacks).
+
+The code is provided as-is and should be reviewed prior to usage in production environments.
